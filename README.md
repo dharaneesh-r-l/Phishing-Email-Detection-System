@@ -142,7 +142,7 @@ npm run dev
 ![Home Page](screenshots/home.png)
 
 ## Detection Result
-![Threat Analaysis](screenshots/Threat Analysis.png)
+![Threat Analaysis](screenshots/ThreatAnalysis.png)
 
 
 ```
