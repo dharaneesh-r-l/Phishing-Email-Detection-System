@@ -138,11 +138,11 @@ npm run dev
 
 ## Screenshots
 
-Add screenshots after deployment.
+## Home Page
+![Home Page](screenshots/home.png)
 
-```<img width="1455" height="918" alt="Screenshot 2026-02-26 002913" src="https://github.com/user-attachments/assets/244042f5-a0e4-41ef-b628-cc13d1d83e79" />
-
-<img width="1239" height="903" alt="Screenshot 2026-02-26 003155" src="https://github.com/user-attachments/assets/8427304e-192b-46e2-9732-23ca0916d8ca" />
+## Detection Result
+![Threat Analaysis](screenshots/Threat Analysis.png)
 
 
 ```
