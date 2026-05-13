@@ -141,8 +141,8 @@ npm run dev
 ## Home Page
 ![Home Page](Screenshots/home.png)
 
-## Detection Result
-![Threat Analaysis](Screenshots/Threat Analysis.png)
+## Threat Distribution
+![Threat Analaysis](Screenshots/Threat.png)
 
 
 ```
